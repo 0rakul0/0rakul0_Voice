@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "0rakul0",
+  "name": "0rakul0_voice",
   "author": "Jefferson Silva dos Anjos",
   "version": "0.0.1",
   "description": "plugin destinado a sintetizar texto em voz",
