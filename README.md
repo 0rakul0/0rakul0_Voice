@@ -20,5 +20,5 @@
 ## 🔛 Usando esse repositório:
 ### Clonando o repositório
 ```
-  git clone https://github.com/0rakul0/pluginGoogleVoice.git
+  https://github.com/0rakul0/pluginGoogleVoice.git
 ```
