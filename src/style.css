@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+div{
+    margin: 10px;
+    display: flex;
+    justify-content:center;
+    width:210px;
+}
+.texto{
+    height: 30px;
+    padding-left: 10px;
+}
+.button{
+    width: 30px;
+    height: 30px;
+    background-color: blue;
+    border: 0px solid;
+    border-radius: 0 15px 15px 0;
+    cursor: pointer;
+}
