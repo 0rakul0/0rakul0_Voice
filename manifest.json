@@ -5,6 +5,7 @@
   "version": "0.0.1",
   "description": "plugin destinado a sintetizar texto em voz",
   "action":{
+    "default_icon":"src/img/iconSond.png",
     "default_popup": "src/index.html"
 },
 "host_permissions":[
