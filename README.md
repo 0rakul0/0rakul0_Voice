@@ -1,4 +1,4 @@
-# pluginGoogleVoice
+# plugin 0rakul0_Voice
 Bem, nesse período pós faculdade começo a me dedicar a compartilhar projetos antigos que surgiram por uma necessidade.
 
 Dedico este plugin as pessoas em suas conferencias que tem o microfone ruim ou não disponibilizam do recuso. Mesmo que a tecnologia já seja conhecida ficar saindo da página atual só para ir no google tradutor, escrever o texto, por para falar e depois voltar a pagina onde estava leva um tempo e as vezes um possível estresse.
