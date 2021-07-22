@@ -1,5 +1,11 @@
 # pluginGoogleVoice
- plugin para trasnformar texto em voz destinado ao discord
+Bem, nesse período pós faculdade começo a me dedicar a compartilhar projetos antigos que surgiram por uma necessidade.
+
+Dedico este plugin as pessoas em suas conferencias que tem o microfone ruim ou não disponibilizam do recuso. Mesmo que a tecnologia já seja conhecida ficar saindo da página atual só para ir no google tradutor, escrever o texto, por para falar e depois voltar a pagina onde estava leva um tempo e as vezes um possível estresse.
+
+Então porque não transformar isso em um recurso direto?
+
+Esse plugin permite que quando a sua tela está compartilhada ele saia como seu microfone. Assim você pode se comunicar por meio do plugin.
 
 
 ## 👩‍💻 Tecnologias Usadas:
